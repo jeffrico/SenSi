@@ -16,6 +16,13 @@ Conspicuity Maps:
 - Orientation
 - Intensity
 - Color
-- Motion
-- Faces
-- Cascade Classifier (is this useful?)
+- Motion (Improved)
+- Faces (Improved)
+
+
+Combiner:
+- VOCUS
+- iNVT
+- pixelwise
+
+
